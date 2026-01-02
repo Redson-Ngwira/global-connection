@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-t#3**fh!uu7x)qggd78436w+@*eck^dwxd$8n9jyas90sz*51)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Load environment variables
 from dotenv import load_dotenv
