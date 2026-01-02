@@ -1,0 +1,6 @@
+Django==4.2.25
+djangorestframework
+requests
+python-dotenv
+groq
+gunicorn
